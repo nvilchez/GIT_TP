@@ -6,4 +6,9 @@ void liba_hello() {
   fprintf(stdout, "%s\n", "hello from liba");
 }
 
+void liba_byebye() {
+  fprintf(stdout, "%s\n", "BYE BYE");
+}
+
+
 /* EOF */
