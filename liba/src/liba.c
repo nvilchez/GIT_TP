@@ -11,4 +11,9 @@ void liba_byebye() {
 }
 
 
+void liba_greetings() {
+  fprintf(stdout, "%s\n", "GREETINGS !!");
+}
+
+
 /* EOF */
