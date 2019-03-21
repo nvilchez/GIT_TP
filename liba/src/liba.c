@@ -16,4 +16,13 @@ void liba_greetings() {
 }
 
 
+<<<<<<< HEAD
+=======
+
+void liba_happy() {
+  fprintf(stdout, "%s\n", "HAPPY !!");
+}
+
+
+>>>>>>> happy
 /* EOF */
