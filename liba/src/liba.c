@@ -9,20 +9,17 @@ void liba_hello() {
 void liba_byebye() {
   fprintf(stdout, "%s\n", "BYE BYE");
 }
-
+ls
 
 void liba_greetings() {
   fprintf(stdout, "%s\n", "GREETINGS !!");
 }
 
 
-<<<<<<< HEAD
-=======
 
 void liba_happy() {
   fprintf(stdout, "%s\n", "HAPPY !!");
 }
 
 
->>>>>>> happy
 /* EOF */
